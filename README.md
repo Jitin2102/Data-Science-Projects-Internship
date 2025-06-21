@@ -1,4 +1,4 @@
-""** Data-Science-Projects-Internship**\n"
+"** Data-Science-Projects-Internship**\n"
 "This Repository contains  projects made by me  as Data Science and Analytics intern at Tamizhan Skills.\n"
 "**🚀 Steps to run code as these are in form of .ipynb:\n**"
 "***- Go to mybinder.org.\n***"
