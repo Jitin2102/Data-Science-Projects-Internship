@@ -3,7 +3,7 @@
 ***🚀 Steps to run code as these are in form of .ipynb:***  
 **Links for Projects Environment**  
 ***Project 1: Sales Forecasting with Linear Regression***  
-**[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jitin2102/Data-Science-Projects-Internship/main?urlpath=%2Fdoc%2Ftree%2FProject1_Sales_Data_Forcasting_LinearRigression.ipynb)**  
+**[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jitin2102/Data-Science-Projects-Internship/main?urlpath=%2Fdoc%2Ftree%2FProject1%2FProject1_Sales_Data_Forcasting_LinearRigression.ipynb)**  
 ***Project 2: Student Performance Analytics Dashboard***  
 **[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jitin2102/Data-Science-Projects-Internship/main?urlpath=%2Fdoc%2Ftree%2FProject2%2FProject2_Student_Performance_Analytics_Dashboard.ipynb)**  
 ***Project 3: Customer Segmentation Using K-Means***  
