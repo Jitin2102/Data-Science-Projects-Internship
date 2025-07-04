@@ -1,4 +1,4 @@
-**Data-Science-Projects-Internship**  
+# **Data-Science-Projects-Internship(RISE)**  
 ***This Repository contains  projects made by me  as Data Science and Analytics intern at Tamizhan Skills.***  
 ***I've included direct links to my code so anyone—even without prior setup—can run and view the outputs easily on their mobile device.***
 ***🚀 Steps to run code as these are in form of .ipynb:***  
