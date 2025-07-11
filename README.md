@@ -191,9 +191,7 @@ Feel free to explore the projects and reach out for discussions on data science,
 
 ---
 
-<div align="center">
-  <strong>Built with ❤️ during Data Science Internship at Tamizhan Skills</strong>
-</div>
+
 
 
 
